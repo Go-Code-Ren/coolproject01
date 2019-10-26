@@ -10,7 +10,7 @@ int main(){
       if(c<10)
       d=a+b+c;
       }
-   cout<<"this is wooooooow"<<a<<b<<c;
+   cout<<""<<a<<b<<c;
    return 0;
    }
    
